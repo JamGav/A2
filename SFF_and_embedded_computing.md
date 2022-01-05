@@ -23,3 +23,4 @@ With the Pi, an update is normally made every couple of years to improve the spe
 
 ### How will this affect you?
 I am always finding a use for this sort of technology in various hobbies and further improvements and miniaturisation is only every a good thing in my opinion.  More access to this sort of technology will enable innovation from a wider cross section of the community.  A person who may have only had a passing interest in electronics or engineering may be driven to explore the topic further and accomplish great things because the basic tools were accessible to them easily.
+
