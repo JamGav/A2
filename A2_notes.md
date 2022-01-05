@@ -50,11 +50,11 @@ My name is Gavin, student number s3925654. I am an Australian who grew up in Bri
 
 
 
-||||||||
-| --- |
+| | | | | | | |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | 
 |  | Programming | Cloud | Team Work | Data Analysis | Collaboration | Database |
-| Drew (Games Developer)| x |  | x ||x||
-| Kyle (Games Developer)| x |  | x ||x||
+| Drew (Games Developer)| x |  | x | | x | |
+| Kyle (Games Developer)| x |  | x | | x | |
 | Rory (Azure Incident Manager)| x | x | x |x|x||
 | Evan (Backend Developer)| x |  | x ||x|x|
 | Gavin (Backend Developer)| x | x | x | x |x|x|
