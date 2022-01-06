@@ -45,8 +45,8 @@ Perhaps not.  I would say that I still dont have an ideal job, but something alo
 
 
 
-#### Team Profile contribution - Much to do hre....
-My name is Gavin, student number s3925654. I am an Australian who grew up in Brisbane and lives in Sydney.  Currently I am studying Information to IT online via OUA and working on team (team name here).  I have a keen interest in the world around me and learning about why things are the way they are.  My interest in IT stems from a hobby interest in electronics and programming which initially drove me to pursue a trade in Aircraft Electrical Systems (Avionics).  Throughout the years I have tinkered on and off with a number of different Electronic and IT related projects while finding a keen interest in projects that bridge the gap between the physical and the connected world, and automation projects. STOP SAYING PROJECTS! FIND ANOTHER WORD.
+#### Team Profile contribution
+My name is Gavin, student number s3925654. I am an Australian who grew up in Brisbane and lives in Sydney.  Currently I am studying Information to IT online via OUA and working on team (team name here).  I have a keen interest in the world around me and learning about why things are the way they are.  My interest in IT stems from a hobby interest in electronics and programming which initially drove me to pursue a trade in Aircraft Electrical Systems (Avionics).  Throughout the years I have tinkered on and off with a number of different Electronic and IT related projects while finding a keen interest in projects that bridge the gap between the physical and the connected world, and automation projects. As someone who is not a huge fan contributor or user of social media, one of my favourite builds was developing my own blog for my travelling based on wordpress.  I was able to develop a unique page on it that would recieve position updates via my HF radio and post them on a map along with short tweets so that family and friends with the link could follow along.
 
 
 ## Ideal Jobs
