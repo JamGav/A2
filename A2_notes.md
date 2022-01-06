@@ -56,14 +56,14 @@ Our teams individual results from A1s ideal jobs segment showed some differences
 Using the burning glass data to identify the top in demand General and IT skills that were shared by at least two members we found that across those different jobs the top skill requirements for each role were varied, although each required some sort of scripting or programming skills.  As such, any programming language(i.e. Java, python, Javascript) was rolled up into the general term "Programming".  The top general skills from the burning glass data showed that the in demand skills were common across all jobs.
 
 
-| | IT Skill | IT Skill | IT Skill | General Skill | General Skill | General Skill |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | 
-|  | Programming | Cloud | SQL/Database |Team Work | Data Analysis | Collaboration |
-| Drew (Games Developer)| x |  || x | | x | 
-| Kyle (Games Developer)| x |  || x | | x | 
-| Rory (Azure Incident Manager)| x | x || x |x|x|
-| Evan (Backend Developer)| x |  |x| x ||x|
-| Gavin (Backend Developer)| x | x |x| x | x |x|
+|                              | IT Skill           | IT Skill |     IT Skill | General Skill | General Skill | General Skill |
+| :---                         | :---:              | :---:    |      :---:   |         :---: |         :---: |         :---: | 
+|                              | **Programming**    |  Cloud   | SQL/Database |   Team Work   | Data Analysis | Collaboration |
+| Drew (Games Developer)       | x                  |          |              |      x        |               |      x        | 
+| Kyle (Games Developer)       | x                  |          |              |      x        |               |      x        | 
+| Rory (Azure Incident Manager)| x                  |     x    |              |      x        |      x        |      x        |
+| Evan (Backend Developer)     | x                  |          |      x       |      x        |               |      x        |
+| Gavin (Backend Developer)    | x                  |     x    |      x       |      x        |      x        |      x        |
 
 We should put something in here about what conclusions we can draw from this data.  Im thinking something along the lines of it driving us to focus on specialising on certain aspects that are more relevant to our desired roles.  It probably couldnt hurt to change up the IT Skill section.  
 
