@@ -18,10 +18,10 @@ There is still a cost vs benefit split in on-prem vs cloud computing.  The scale
 Cloud providers and data centres are expected to expand around the world continuously over the next few years.  A market in Africa is beginning to emerge as mobile networks increase in speed and penetration across the continent and the internet becomes more accessible.  As this market expands, large and small cloud providers will start to build more datacentres to adaquetly service the growing number of online businesses and consumers.  We could potentially see a revolution in the way the entire African continent conducts commerce.
 
 ##### A larger move to cloud?
-BYOD is expanding as companies aim to limit expenditure.  There are a couple of problems that face most BYOD companies, one is "How do I secure my data", another is "How do I control costs when trying to support a non standard environment".  An answer to this could be a product like Azure Virtual Desktop.  This allows the same controlled desktop environment to be accessed on any device by a user.  This allows data to be kept more secure than on the users personal device and shifts the responsibility for the maintenance of the computer on to the user
+BYOD is expanding as companies aim to limit expenditure.  There are a couple of problems that face most BYOD companies, one is "How do I secure my data", another is "How do I control costs when trying to support a non standard environment".  An answer to this could be a product like Az*ure Virtual Desktop.  This allows the same controlled desktop environment to be accessed on any device by a user.  This allows data to be kept more secure than on the users personal device and shifts the responsibility for the maintenance of the computer on to the user
 
 
-### What is the likely impact?
+### What is the likely impact?1
 - Increase in reliance on technology
 - Increase in technical jobs relating to the technology
 - Environmental impacts?  Will having more centralised computing result in a requirement for less overall machines?
